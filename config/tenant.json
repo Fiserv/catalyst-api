@@ -1,6 +1,6 @@
 {
-  "title": "Catalyst API for External Usage",
-  "name": "CatalystAPIforExternalUsage",
+  "title": "Catalyst API",
+  "name": "CatalystAPI",
   "brand": "Fiserv",
   "brandLogoURL": "https://raw.githubusercontent.com/Fiserv/Developer-Portal-Tenant-API/develop/assets/images/Fiserv_Logo.jpg",
   "solution": [
@@ -23,15 +23,15 @@
     "logoURL": "https://raw.githubusercontent.com/Fiserv/Developer-Portal-Tenant-API/develop/assets/images/Portal_Logo.png",
     "description": "To onboard properly into the Developer Studio as a tenant each product must support these APIs so that we can retrieve product specific API specifications and documentation.",
     "longDescription": "To onboard properly into the Developer Studio as a tenant each product must support these APIs so that we can retrieve product specific API specifications and documentation.",
-    "apiSpecification": "/v1/apis/CatalystAPIforExternalUsage",
-    "layout": "/v1/layouts/CatalystAPIforExternalUsage",
-    "documentation": "/v1/docs/CatalystAPIforExternalUsage",
-    "documenttree": "/v1/docs/CatalystAPIforExternalUsage",
-    "documenttreeV2": "/v2/docs/CatalystAPIforExternalUsage",
-    "docsCount": "/v2/docs/count/CatalystAPIforExternalUsage",
-    "sandbox": "/v2/sandboxrun/CatalystAPIforExternalUsage",
-    "accessConfig": "/v1/fileAccess/CatalystAPIforExternalUsage",
-    "assets": "/v1/assets/CatalystAPIforExternalUsage",
+    "apiSpecification": "/v1/apis/CatalystAPI",
+    "layout": "/v1/layouts/CatalystAPI",
+    "documentation": "/v1/docs/CatalystAPI",
+    "documenttree": "/v1/docs/CatalystAPI",
+    "documenttreeV2": "/v2/docs/CatalystAPI",
+    "docsCount": "/v2/docs/count/CatalystAPI",
+    "sandbox": "/v2/sandboxrun/CatalystAPI",
+    "accessConfig": "/v1/fileAccess/CatalystAPI",
+    "assets": "/v1/assets/CatalystAPI",
     "feature": [
       {
         "name": "sandBox",
